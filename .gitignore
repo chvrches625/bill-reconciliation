@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+.idea/
+.vscode/
+*.log
+
+# Local order data, bills, and reconciliation output.
+/data/
+/artifacts/
+/exports/
